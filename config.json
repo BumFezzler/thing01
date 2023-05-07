@@ -1,0 +1,14 @@
+{
+    "esp": {
+        "enabled": true
+    },
+    "aimbot": {
+        "enabled": true
+    },
+    "fishing_bot": {
+        "enabled": false
+    },
+    "navigation_bot": {
+        "enabled": true
+    }
+}
