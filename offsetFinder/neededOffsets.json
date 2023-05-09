@@ -1,0 +1,5 @@
+[
+    {"file": "Engine_Classes", "class": "Actor", "key": "RootComponent", "operation": "offset"},
+    {"file": "Engine_Structs", "class": "CameraCacheEntry", "key": "POV", "operation": "offset"},
+    {"file": "Athena_structs", "class": "Crew", "operation": "size"}
+]
